@@ -1,0 +1,11 @@
+Formal Distance Protocol
+Copyright 2026 Swithin St John Lindbeck
+
+This product includes work originally developed as part of Project Argent Star.
+
+The protocol's design and authoring history is documented in part at:
+  https://projectargentstar.substack.com/p/consensus-addiction (April 9, 2026)
+
+Reference implementation files in this repository are written in the
+Anthropic Claude.ai SKILL format. Adaptations to other platforms are
+welcome under the terms of the Apache License, Version 2.0.
